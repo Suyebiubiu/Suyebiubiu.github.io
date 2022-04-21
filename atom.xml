@@ -6,7 +6,7 @@
   <link href="https://suyebiubiu.github.io/atom.xml" rel="self"/>
   
   <link href="https://suyebiubiu.github.io/"/>
-  <updated>2022-04-21T08:49:28.868Z</updated>
+  <updated>2022-04-21T07:06:48.056Z</updated>
   <id>https://suyebiubiu.github.io/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="https://suyebiubiu.github.io/2022/04/21/maxcomputer/"/>
-    <id>https://suyebiubiu.github.io/2022/04/21/maxcomputer/</id>
-    <published>2022-04-21T08:47:05.043Z</published>
-    <updated>2022-04-21T08:49:28.868Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;1-如何调优&quot;&gt;&lt;a href=&quot;#1-如何调优&quot; class=&quot;headerlink&quot; title=&quot;1.如何调优&quot;&gt;&lt;/a&gt;1.如何调优&lt;/h1&gt;&lt;p&gt;这么样&lt;/p&gt;
-&lt;h2 id=&quot;1-1-方法论&quot;&gt;&lt;a href=&quot;#1-1-方法论&quot;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -56,6 +34,34 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈MaxCompute SQL调优</title>
+    <link href="https://suyebiubiu.github.io/2021/04/21/maxcomputer/"/>
+    <id>https://suyebiubiu.github.io/2021/04/21/maxcomputer/</id>
+    <published>2021-04-21T01:25:00.000Z</published>
+    <updated>2022-04-21T08:52:28.980Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-如何调优&quot;&gt;&lt;a href=&quot;#1-如何调优&quot; class=&quot;headerlink&quot; title=&quot;1.如何调优&quot;&gt;&lt;/a&gt;1.如何调优&lt;/h1&gt;&lt;p&gt;这么样&lt;/p&gt;
+&lt;h2 id=&quot;1-1-方法论&quot;&gt;&lt;a href=&quot;#1-1-方法论&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="大数据" scheme="https://suyebiubiu.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="sql调优" scheme="https://suyebiubiu.github.io/tags/sql%E8%B0%83%E4%BC%98/"/>
+    
+    <category term="离线计算" scheme="https://suyebiubiu.github.io/tags/%E7%A6%BB%E7%BA%BF%E8%AE%A1%E7%AE%97/"/>
     
   </entry>
   
