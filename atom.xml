@@ -6,7 +6,7 @@
   <link href="https://suyebiubiu.github.io/atom.xml" rel="self"/>
   
   <link href="https://suyebiubiu.github.io/"/>
-  <updated>2022-04-21T11:25:21.964Z</updated>
+  <updated>2022-04-21T11:47:03.749Z</updated>
   <id>https://suyebiubiu.github.io/</id>
   
   <author>
@@ -18,17 +18,17 @@
   
   <entry>
     <title>浅谈MaxCompute SQL调优</title>
-    <link href="https://suyebiubiu.github.io/2021/04/21/maxcomputer/"/>
-    <id>https://suyebiubiu.github.io/2021/04/21/maxcomputer/</id>
+    <link href="https://suyebiubiu.github.io/2021/04/21/qian-tan-maxcompute-sql-diao-you/"/>
+    <id>https://suyebiubiu.github.io/2021/04/21/qian-tan-maxcompute-sql-diao-you/</id>
     <published>2021-04-21T01:25:00.000Z</published>
-    <updated>2022-04-21T11:25:21.964Z</updated>
+    <updated>2022-04-21T11:47:03.749Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;1-写在前面&quot;&gt;&lt;a href=&quot;#1-写在前面&quot; class=&quot;headerlink&quot; title=&quot;1.写在前面&quot;&gt;&lt;/a&gt;1.写在前面&lt;/h1&gt;&lt;p&gt;&amp;amp;emsp;</summary>
+    <summary type="html">&lt;h1 id=&quot;1-写在前面&quot;&gt;&lt;a href=&quot;#1-写在前面&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -48,7 +48,7 @@
     <link href="https://suyebiubiu.github.io/2020/09/07/hello-world/"/>
     <id>https://suyebiubiu.github.io/2020/09/07/hello-world/</id>
     <published>2020-09-07T01:25:00.000Z</published>
-    <updated>2022-04-21T11:27:37.695Z</updated>
+    <updated>2022-04-21T11:34:42.298Z</updated>
     
     
       
