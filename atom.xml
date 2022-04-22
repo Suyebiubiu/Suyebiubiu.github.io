@@ -6,7 +6,7 @@
   <link href="https://suyebiubiu.github.io/atom.xml" rel="self"/>
   
   <link href="https://suyebiubiu.github.io/"/>
-  <updated>2022-04-22T15:22:02.933Z</updated>
+  <updated>2022-04-22T15:56:41.386Z</updated>
   <id>https://suyebiubiu.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大数据学习之路</title>
+    <link href="https://suyebiubiu.github.io/2021/04/22/da-shu-ju-xue-xi-zhi-lu/"/>
+    <id>https://suyebiubiu.github.io/2021/04/22/da-shu-ju-xue-xi-zhi-lu/</id>
+    <published>2021-04-22T15:54:00.000Z</published>
+    <updated>2022-04-22T15:56:41.386Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0-写在前面&quot;&gt;&lt;a href=&quot;#0-写在前面&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="大数据" scheme="https://suyebiubiu.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+    <category term="大数据" scheme="https://suyebiubiu.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
   
   <entry>
     <title>浅谈MaxCompute SQL调优</title>
